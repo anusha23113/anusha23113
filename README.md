@@ -1,5 +1,5 @@
 ## Hi there!👋
-I am a Computer Science undergraduate at IIITD and an Economics enthusiast.
+I am a Computer Science and Economics enthusiast.
 
 
 # 💻 Tech Stack:
