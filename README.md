@@ -1,5 +1,5 @@
 ## Hi there!👋
-I am a Computer Science and Economics enthusiast.
+I am a CS and Economics enthusiast.
 
 
 # 💻 Tech Stack:
