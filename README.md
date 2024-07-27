@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there!👋
+I am a Computer Science undergraduate at IIITD and an Economics enthusiast.
 <!--
 **anusha23113/anusha23113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
